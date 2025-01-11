@@ -1,0 +1,14 @@
+
+███╗   ██╗██╗   ██╗███████╗██████╗     ███████╗██╗███╗   ██╗██████╗ ███████╗██████╗ 
+████╗  ██║██║   ██║██╔════╝██╔══██╗    ██╔════╝██║████╗  ██║██╔══██╗██╔════╝██╔══██╗
+██╔██╗ ██║██║   ██║███████╗██████╔╝    █████╗  ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+██║╚██╗██║██║   ██║╚════██║██╔═══╝     ██╔══╝  ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+██║ ╚████║╚██████╔╝███████║██║         ██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
+╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝         ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+Como funciona?
+
+O NUSP Finder é um programa utilizado para encontrar pessoas do ICMC através do número USP original, sendo esse o único instituto que disponibiliza essa informação publicamente.
+> Utilização:
+> Execute o arquivo com '--single' caso deseje fazer uma busca única.
+> Execute o arquivo com '--multi' caso deseje fazer uma busca simultânea.
