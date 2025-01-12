@@ -13,8 +13,10 @@ I will try to implement the application using threading/multithreading concepts 
 ## Usage:
 
 ```
-    use [zegui@arch ~]$ python3 nusp-finder.py --single to do a single search.
-    use [zegui@arch ~]$ python3 nusp-finder.py --multi to do a multi search.
+    # You can use --single to do a single search or --multi to do a multi search.
+
+     python3 nusp-finder.py --single 
+     python3 nusp-finder.py --multi 
 ```
 
 Feel free to open a Pull-Request or a Issue, give a star if you liked it.
